@@ -10,7 +10,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-helmet": "^5.2.0",
-    "react-moment": "^0.8.4",
+    "react-moment": "^0.9.7",
     "react-redux": "^6.0.0",
     "react-scripts": "2.1.5",
     "react-spinners": "^0.5.1",
